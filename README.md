@@ -1,28 +1,30 @@
 
-# Домашка по 17 уроку
-[17-та домашка опублікована на GitHub Pages]([[lessons-practic/22stats-preview-card-component-main/README-template.md](https://markyselov.github.io/news-homepage/](https://markyselov.github.io/Results-summary-component/)))
-
+# Домашка по 22 уроку
 ## Структура проекту
 
 Проект складається з наступних файлів та директорій:
-
-```
 images/
-  favicon-32x32.png
-  icon-memory.png
-  icon-reaction.png
-  icon-verbal.png
-  icon-visual.png
-  og-bg.png
-  result-bg.png
+
+  - favicon-32x32.png
+  - image-header-desktop.jpg
+  - image-header-mobile.jpg
+  - image-header-purple.png
+  
 css/
-  reset.css
-  styles.css
+  - reset.css
+  - styles.css
+  
 index.html
+
 README.md
 ```
 
 ### Опис файлів
+- **images/** - директорія з зображеннями.
+  - **favicon-32x32.png** - іконка
+  - **image-header-desktop.jpg** - картинка для хедера на десктопі
+  - **image-header-mobile.jpg** - картинка для хедера на мобайлі
+  - **image-header-purple.png** - картинка
 - **css/** - директорія з CSS файлами.
   - **reset.css** - CSS файл для скидання стандартних стилів браузера.
   - **styles.css** - головний CSS файл зі стилями для сайту.
@@ -33,6 +35,7 @@ README.md
 
 - **HTML5** - для розмітки сторінки.
 - **CSS** - для стилізації сторінки.
+- **WOFF2** - формат шрифтів для оптимальної роботи в браузерах.
 
 ### Особливості проекту
 
@@ -44,4 +47,4 @@ README.md
 Відкрийте `index.html` у браузері для перегляду сторінки.
 
 ## Автор
-Проект створено в рамках навчального курсу, автор - MarKyselov.
+Проект створено в рамках навчального курсу, автор - IvanGithubEd.
